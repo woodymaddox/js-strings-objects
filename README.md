@@ -1,1 +1,1 @@
-.
+// js-strings-objects
