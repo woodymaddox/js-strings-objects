@@ -36,6 +36,24 @@ console.log(iAmThursty(55));
 console.log(iAmThursty(11));
 console.log(iAmThursty(67));
 
+console.log(1 === '1'); //false
+//console.log(1 == '1'); //true
+console.log(log1 !== '2'
+)
+
+console.log('cats'.length)// how many characters in a string
+const quote = 'winter is coming';
+console.log(qoute.indexof('is'));
+
+
+
+
+
+
+
+
+
+
 
 
 //Bonus = printToDOm function
